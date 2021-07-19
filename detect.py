@@ -5,15 +5,15 @@ Usage:
 """
 
 
-import ptvsd
-
-ptvsd.enable_attach()
-print(f'''Python Tool for Visual Studio Debugger {ptvsd.__version__}
-Please attach the python debugger:
-- In Visual Studio, select Debug > Attach to Process (or press Ctrl+Alt+P) to open the Attach to Process dialog box.
-- For Connection type, select Python remote (ptvsd)
-- In the Connection target box, select tcp://localhost:5678/ and click "Attach" button''')
-ptvsd.wait_for_attach()
+# import ptvsd
+#
+# ptvsd.enable_attach()
+# print(f'''Python Tool for Visual Studio Debugger {ptvsd.__version__}
+# Please attach the python debugger:
+# - In Visual Studio, select Debug > Attach to Process (or press Ctrl+Alt+P) to open the Attach to Process dialog box.
+# - For Connection type, select Python remote (ptvsd)
+# - In the Connection target box, select tcp://localhost:5678/ and click "Attach" button''')
+# ptvsd.wait_for_attach()
 
 import argparse
 import sys
