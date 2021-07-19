@@ -103,6 +103,9 @@ Get started in seconds with our verified environments and integrations, includin
     <a href="https://wandb.ai/site?utm_campaign=repo_yolo_readme">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-wb-small.png" width="15%"/>
     </a>
+    <a href="https://www.tensorflow.org/tensorboard">
+        <img src="https://i.ibb.co/tb38fR6/tensorboard-logo-social.png" alt="tensorboard-logo-social" border="0">
+    </a>
 </div>  
 
 ## <div align="center">Contact</div>
