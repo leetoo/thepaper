@@ -3,17 +3,29 @@
 ## <div align="center">The paper </div>
 
 
+Some smart words, links, tables, figures and graphs 
+
+
+## <div align="center">Quick Start Examples</div>
+
+The quickest way will be using colab notebooks to reproduce our results 
+
 <a href="https://colab.research.google.com/drive/1BEtfNhAdoR3xWqGOBKzmnjG1MJC5AkBv#scrollTo=qOZNZV9DHpj1">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> - training 
 
+<div></div> 
 
 <a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> - inference  
 
+<div></div> 
 
-## <div align="center">Quick Start Examples</div>
+<a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> - all together   
+
 
 <details open>
 <summary>Install</summary>
