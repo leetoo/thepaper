@@ -3,7 +3,7 @@
 ## <div align="center">The paper </div>
 
 
-<a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
+<a href="https://colab.research.google.com/drive/1BEtfNhAdoR3xWqGOBKzmnjG1MJC5AkBv#scrollTo=qOZNZV9DHpj1">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> - training 
 
